@@ -1,6 +1,5 @@
 # Welcome 
 
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
